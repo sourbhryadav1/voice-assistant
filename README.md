@@ -57,7 +57,7 @@ deshpande_main/
 
 1. **Clone and navigate to project**
    ```bash
-   cd deshpande_main
+   cd voice-assistant
    ```
 
 2. **Activate virtual environment**
